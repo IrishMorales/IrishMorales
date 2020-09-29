@@ -4,15 +4,14 @@ I'm an altruist, artist, roboticist, and full-time nerd. I believe that art & te
 
 <p align="left">
 <h3 align="left">⚔️ It's dangerous to go alone, take this!</h3>
-<a href="https://linkedin.com/in/irish-danielle-morales" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="irish-danielle-morales" height="30" width="40" /></a>
-<a href="https://fb.com/irish.danielle.morales" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="irish.danielle.morales" height="30" width="40" /></a>
-<a href="https://instagram.com/peekapolar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="peekapolar" height="30" width="40" /></a>
-</p>
+
+[![Instagram Badge](https://img.shields.io/badge/peekapolar-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/peekapolar/)  [![Linkedin Badge](https://img.shields.io/badge/IrishMorales-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irish-danielle-morales/)  [![Facebook Badge](https://img.shields.io/badge/IrishMorales-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/irish.danielle.morales/)  [![Outlook Badge](https://img.shields.io/badge/IrishDMorales@Outlook.com-2D8CFF?logo=microsoft-outlook&logoColor=white&style=for-the-badge)](mailto:irishdmorales@outlook.com)
 
 <h3 align="left">⭐ Languages:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 
 <h3 align="left">👾 Player Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irishmorales&show_icons=true" alt="irishmorales" /></p>
 
-Rest here, weary traveler. 😴
+[![Ase's github stats](https://github-readme-stats.vercel.app/api?username=irishmorales&count_private=true&theme=great-gatsby&hide=issues,contribs)](https://github.com/irishmorales/github-readme-stats)
+
+Rest [here](https://www.youtube.com/watch?v=pkpxi-x0AFo), weary traveler. 😴
