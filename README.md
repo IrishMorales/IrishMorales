@@ -13,8 +13,9 @@ I'm an altruist, artist, roboticist, and full-time nerd. I believe that art & te
 [![Python Badge](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)]() 
 [![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)]() 
 
-<h3 align="left">👾 Player Stats:</h3>
-
-[![Ase's github stats](https://github-readme-stats.vercel.app/api?username=irishmorales&count_private=true&theme=great-gatsby&hide=issues,contribs)](https://github.com/irishmorales/github-readme-stats)
+### <h3 align="left">👾 Player Stats:</h3>
+###
+### [![Ase's github stats](https://github-readme-stats.vercel.app/api?username=irishmorales&count_private=true&theme=great-gatsby&hide=issues,contribs)]
+### (https://github.com/irishmorales/github-readme-stats)
 
 Rest [here](https://www.youtube.com/watch?v=pkpxi-x0AFo), weary traveler. 😴
