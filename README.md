@@ -1,6 +1,5 @@
-### Ahoy, I'm Ase! 👋
-
-I'm an altruist, artist, roboticist, and full-time nerd. I believe that art & technology are both tools of creation to incite change, and I hope you do too! :D
+### Ahoy, I'm Ase 👋
+and I like to create with ❤️!
 
 <p align="left">
 <h3 align="left">⚔️ It's dangerous to go alone, take this!</h3>
