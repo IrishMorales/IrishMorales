@@ -1,5 +1,4 @@
-### Ahoy, I'm Ase 👋
-and I like to create with ❤️!
+### Hi, I'm Ase and I like to create with ❤️!
 
 <p align="left">
 <h3 align="left">⚔️ It's dangerous to go alone, take this!</h3>
