@@ -1,14 +1,14 @@
 ### Hi! I'm Ase and I like to create with ❤️
 I'm Irish Danielle 'Ase' Morales, and I believe in using data, tech, and art for equity and sustainability.
-___
 
 #### ⭐ About what I do!
+I'm currently pursuing neural network research directions and projects related to AI for global health & development and reducing near-term technical safety risks from societal impacts of AI. I'm also particularly interested in neural scaling laws, world modelling, model collusion, unlearning, shallow learning, and general ML/AI for social good. If you're interested in doing a project together, say hi at [asemorales.tech@gmail.com](mailto:asemorales.tech@gmail.com) :)
+
+#### ⭐ GitHub Stats
 <a href="https://github.com/IrishMorales/github-stats">
 <img src="https://github.com/IrishMorales/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/IrishMorales/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
-
-Widget-like previews of statistics are from [GitHub Stats](https://github.com/jstrieb/github-stats)
 
 #### ⭐ Contact
 
