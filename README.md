@@ -12,4 +12,4 @@ Widget-like previews of statistics are from [GitHub Stats](https://github.com/js
 
 #### ⭐ Contact
 
-[![Linkedin Badge](https://img.shields.io/badge/IrishMorales-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irish-danielle-morales/) [![Outlook Badge](https://img.shields.io/badge/IrishDMorales@Outlook.com-2D8CFF?logo=microsoft-outlook&logoColor=white&style=for-the-badge)](mailto:irishdmorales@outlook.com)
+[![Linkedin Badge](https://img.shields.io/badge/IrishMorales-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irish-danielle-morales/) [![GMail Badge](https://img.shields.io/badge/asemorales.tech@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asemorales.tech@gmail.com)
