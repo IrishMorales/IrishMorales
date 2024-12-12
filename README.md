@@ -4,10 +4,12 @@
 I do data, tech, & art for impact. Full-stack developer doing backend-heavy professional roles, frontend-heavy freelance, and volunteer design for nonprofits.
 
 #### GitHub Stats
-<a href="https://github.com/IrishMorales/github-stats">
+<div style="display:inline;">
 <img src="https://github.com/IrishMorales/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/IrishMorales/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
 <img src="https://github.com/IrishMorales/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
+<img src="https://github.com/IrishMorales/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</div>
 
 #### Contact
 
