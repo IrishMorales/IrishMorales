@@ -1,7 +1,8 @@
-# Hi, I'm Ase! I like to create with <3
+![image](https://github.com/user-attachments/assets/92b612ce-373f-4067-b974-90ea37f4dc1f)
 
+# Hi, I'm Ase! :D
 
-I do data, tech, & art for impact. Full-stack developer doing backend-heavy professional roles, frontend-heavy freelance, and volunteer design for nonprofits.
+Full-stack software engineer with background in web and ML/AI. I deeply believe the end goal of technology should be to uplift human lives.
 
 #### GitHub Stats
 <div style="display:inline;">
